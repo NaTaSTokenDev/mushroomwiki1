@@ -8,14 +8,14 @@ export const sampleMushrooms = [
     habitat: 'Hardwood forests',
     season: ['Summer', 'Fall'],
     edibility: 'edible',
-    image_url: 'https://images.unsplash.com/photo-1607596180523-579611d9c386?auto=format&fit=crop&q=80&w=800',
+    image_url: 'https://i.ibb.co/gZr48Hn/a-photo-of-a-cluster-of-king-oyster-mush-civd-E0lu-Q6e0-XESc-I5hqjg-Uzt-HZrqz-RVCIz-Mk-CLj-H4ig.jpg',
     growth_stages: [
       {
         id: '1a',
         mushroom_id: '1',
         stage: 'Button',
         description: 'Small, compact form just emerging from soil',
-        image_url: 'https://images.unsplash.com/photo-1607596180523-579611d9c386?auto=format&fit=crop&q=80&w=800',
+        image_url: 'https://i.ibb.co/gZr48Hn/a-photo-of-a-cluster-of-king-oyster-mush-civd-E0lu-Q6e0-XESc-I5hqjg-Uzt-HZrqz-RVCIz-Mk-CLj-H4ig.jpg',
         created_at: '2024-02-20T12:00:00Z'
       }
     ],
@@ -31,7 +31,7 @@ export const sampleMushrooms = [
     habitat: 'Pine and birch forests',
     season: ['Summer', 'Fall'],
     edibility: 'poisonous',
-    image_url: 'https://images.unsplash.com/photo-1518553552028-b0548c1af143?auto=format&fit=crop&q=80&w=800',
+    image_url: 'https://i.ibb.co/gZr48Hn/a-photo-of-a-cluster-of-king-oyster-mush-civd-E0lu-Q6e0-XESc-I5hqjg-Uzt-HZrqz-RVCIz-Mk-CLj-H4ig.jpg',
     growth_stages: [],
     created_at: '2024-02-20T12:00:00Z',
     user_id: 'user1'
@@ -45,7 +45,7 @@ export const sampleMushrooms = [
     habitat: 'Hardwood logs and stumps',
     season: ['Spring', 'Fall', 'Winter'],
     edibility: 'edible',
-    image_url: 'https://images.unsplash.com/photo-1611536326696-b52be8ef45f6?auto=format&fit=crop&q=80&w=800',
+    image_url: 'https://i.ibb.co/gZr48Hn/a-photo-of-a-cluster-of-king-oyster-mush-civd-E0lu-Q6e0-XESc-I5hqjg-Uzt-HZrqz-RVCIz-Mk-CLj-H4ig.jpg',
     growth_stages: [],
     created_at: '2024-02-20T12:00:00Z',
     user_id: 'user1'
